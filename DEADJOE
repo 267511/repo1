@@ -1,0 +1,188 @@
+
+*** These modified files were found in JOE when it aborted on Wed Apr 25 11:18:17 2018
+*** JOE was aborted because the terminal closed
+
+*** File '/home/pk-7/web11.04/.git/COMMIT_EDITMSG'
+mess
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   api1.js
+#	new file:   api1p.js
+#	new file:   api2p.js
+#	new file:   api3p.js
+#	new file:   client_side.html
+#	new file:   cwicz/asd.js
+#	new file:   cwicz/async.js
+#	new file:   cwicz/bd.js
+#	new file:   logs
+#	new file:   node_modules/asn1/.npmignore
+#	new file:   node_modules/asn1/.travis.yml
+#	new file:   node_modules/asn1/LICENSE
+#	new file:   node_modules/asn1/README.md
+#	new file:   node_modules/asn1/lib/ber/errors.js
+#	new file:   node_modules/asn1/lib/ber/index.js
+#	new file:   node_modules/asn1/lib/ber/reader.js
+#	new file:   node_modules/asn1/lib/ber/types.js
+#	new file:   node_modules/asn1/lib/ber/writer.js
+#	new file:   node_modules/asn1/lib/index.js
+#	new file:   node_modules/asn1/package.json
+#	new file:   node_modules/asn1/tst/ber/reader.test.js
+#	new file:   node_modules/asn1/tst/ber/writer.test.js
+#	new file:   node_modules/assert-plus/AUTHORS
+#	new file:   node_modules/assert-plus/CHANGES.md
+#	new file:   node_modules/assert-plus/README.md
+#	new file:   node_modules/assert-plus/assert.js
+#	new file:   node_modules/assert-plus/package.json
+#	new file:   node_modules/asynckit/LICENSE
+#	new file:   node_modules/asynckit/README.md
+#	new file:   node_modules/asynckit/bench.js
+#	new file:   node_modules/asynckit/index.js
+#	new file:   node_modules/asynckit/lib/abort.js
+#	new file:   node_modules/asynckit/lib/async.js
+#	new file:   node_modules/asynckit/lib/defer.js
+#	new file:   node_modules/asynckit/lib/iterate.js
+#	new file:   node_modules/asynckit/lib/readable_asynckit.js
+#	new file:   node_modules/asynckit/lib/readable_parallel.js
+#	new file:   node_modules/asynckit/lib/readable_serial.js
+#	new file:   node_modules/asynckit/lib/readable_serial_ordered.js
+#	new file:   node_modules/asynckit/lib/state.js
+#	new file:   node_modules/asynckit/lib/streamify.js
+#	new file:   node_modules/asynckit/lib/terminator.js
+#	new file:   node_modules/asynckit/package.json
+#	new file:   node_modules/asynckit/parallel.js
+#	new file:   node_modules/asynckit/serial.js
+#	new file:   node_modules/asynckit/serialOrdered.js
+#	new file:   node_modules/asynckit/stream.js
+#	new file:   node_modules/boom/LICENSE
+#	new file:   node_modules/boom/README.md
+#	new file:   node_modules/boom/lib/index.js
+#	new file:   node_modules/boom/package.json
+#	new file:   node_modules/co/History.md
+#	new file:   node_modules/co/LICENSE
+#	new file:   node_modules/co/Readme.md
+#	new file:   node_modules/co/index.js
+#	new file:   node_modules/co/package.json
+#	new file:   node_modules/combined-stream/License
+#	new file:   node_modules/combined-stream/Readme.md
+#	new file:   node_modules/combined-stream/lib/combined_stream.js
+#	new file:   node_modules/combined-stream/lib/defer.js
+#	new file:   node_modules/combined-stream/package.json
+#	new file:   node_modules/core-util-is/LICENSE
+#	new file:   node_modules/core-util-is/README.md
+#	new file:   node_modules/core-util-is/float.patch
+#	new file:   node_modules/core-util-is/lib/util.js
+#	new file:   node_modules/core-util-is/package.json
+#	new file:   node_modules/core-util-is/test.js
+#	new file:   node_modules/cryptiles/.npmignore
+#	new file:   node_modules/cryptiles/LICENSE
+#	new file:   node_modules/cryptiles/README.md
+#	new file:   node_modules/cryptiles/lib/index.js
+#	new file:   node_modules/cryptiles/node_modules/boom/LICENSE
+#	new file:   node_modules/cryptiles/node_modules/boom/README.md
+#	new file:   node_modules/cryptiles/node_modules/boom/lib/index.js
+#	new file:   node_modules/cryptiles/node_modules/boom/package.json
+#	new file:   node_modules/cryptiles/package.json
+#	new file:   node_modules/dashdash/CHANGES.md
+#	new file:   node_modules/dashdash/LICENSE.txt
+#	new file:   node_modules/dashdash/README.md
+#	new file:   node_modules/dashdash/etc/dashdash.bash_completion.in
+#	new file:   node_modules/dashdash/lib/dashdash.js
+#	new file:   node_modules/dashdash/package.json
+#	new file:   node_modules/delayed-stream/.npmignore
+#	new file:   node_modules/delayed-stream/License
+#	new file:   node_modules/delayed-stream/Makefile
+#	new file:   node_modules/delayed-stream/Readme.md
+#	new file:   node_modules/delayed-stream/lib/delayed_stream.js
+#	new file:   node_modules/delayed-stream/package.json
+#	new file:   node_modules/extsprintf/.gitmodules
+#	new file:   node_modules/extsprintf/.npmignore
+#	new file:   node_modules/extsprintf/LICENSE
+#	new file:   node_modules/extsprintf/Makefile
+#	new file:   node_modules/extsprintf/Makefile.targ
+#	new file:   node_modules/extsprintf/README.md
+#	new file:   node_modules/extsprintf/jsl.node.conf
+#	new file:   node_modules/extsprintf/lib/extsprintf.js
+#	new file:   node_modules/extsprintf/package.json
+#	new file:   node_modules/fast-deep-equal/LICENSE
+#	new file:   node_modules/fast-deep-equal/README.md
+#	new file:   node_modules/fast-deep-equal/index.d.ts
+#	new file:   node_modules/fast-deep-equal/index.js
+#	new file:   node_modules/fast-deep-equal/package.json
+#	new file:   node_modules/fast-json-stable-stringify/.eslintrc.yml
+#	new file:   node_modules/fast-json-stable-stringify/.npmignore
+#	new file:   node_modules/fast-json-stable-stringify/.travis.yml
+#	new file:   node_modules/fast-json-stable-stringify/LICENSE
+#	new file:   node_modules/fast-json-stable-stringify/README.md
+#	new file:   node_modules/fast-json-stable-stringify/benchmark/index.js
+#	new file:   node_modules/fast-json-stable-stringify/benchmark/test.json
+#	new file:   node_modules/fast-json-stable-stringify/example/key_cmp.js
+#	new file:   node_modules/fast-json-stable-stringify/example/nested.js
+#	new file:   node_modules/fast-json-stable-stringify/example/str.js
+#	new file:   node_modules/fast-json-stable-stringify/example/value_cmp.js
+#	new file:   node_modules/fast-json-stable-stringify/index.js
+#	new file:   node_modules/fast-json-stable-stringify/package.json
+#	new file:   node_modules/fast-json-stable-stringify/test/cmp.js
+#	new file:   node_modules/fast-json-stable-stringify/test/nested.js
+#	new file:   node_modules/fast-json-stable-stringify/test/str.js
+#	new file:   node_modules/fast-json-stable-stringify/test/to-json.js
+#	new file:   node_modules/getpass/.npmignore
+#	new file:   node_modules/getpass/.travis.yml
+#	new file:   node_modules/getpass/LICENSE
+#	new file:   node_modules/getpass/README.md
+#	new file:   node_modules/getpass/lib/index.js
+#	new file:   node_modules/getpass/package.json
+#	new file:   node_modules/har-schema/LICENSE
+#	new file:   node_modules/har-schema/README.md
+#	new file:   node_modules/har-schema/lib/afterRequest.json
+#	new file:   node_modules/har-schema/lib/beforeRequest.json
+#	new file:   node_modules/har-schema/lib/browser.json
+#	new file:   node_modules/har-schema/lib/cache.json
+#	new file:   node_modules/har-schema/lib/content.json
+#	new file:   node_modules/har-schema/lib/cookie.json
+#	new file:   node_modules/har-schema/lib/creator.json
+#	new file:   node_modules/har-schema/lib/entry.json
+#	new file:   node_modules/har-schema/lib/har.json
+#	new file:   node_modules/har-schema/lib/header.json
+#	new file:   node_modules/har-schema/lib/index.js
+#	new file:   node_modules/har-schema/lib/log.json
+#	new file:   node_modules/har-schema/lib/page.json
+#	new file:   node_modules/har-schema/lib/pageTimings.json
+#	new file:   node_modules/har-schema/lib/postData.json
+#	new file:   node_modules/har-schema/lib/query.json
+#	new file:   node_modules/har-schema/lib/request.json
+#	new file:   node_modules/har-schema/lib/response.json
+#	new file:   node_modules/har-schema/lib/timings.json
+#	new file:   node_modules/har-schema/package.json
+#	new file:   node_modules/hoek/.npmignore
+#	new file:   node_modules/hoek/LICENSE
+#	new file:   node_modules/hoek/README.md
+#	new file:   node_modules/hoek/lib/escape.js
+#	new file:   node_modules/hoek/lib/index.js
+#	new file:   node_modules/hoek/package.json
+#	new file:   package-lock.json
+#	new file:   package.json
+#	new file:   projekty.pdf
+#	new file:   server_side.js
+#	new file:   usosp.js
+#	new file:   views/api1.js
+#	new file:   views/client_side.hbs
+#	new file:   views/client_side.hbs~
+#
+
+*** File '(Unnamed)'
+MON_mut.pdb
+psfgen2
+psfgen
+log_lp
+MON_mut.pdb
+grid.dpf
+ZINC-downloader-3D-sdf.gz.uri
+CAAMM.xaa.sdf
+substances_5MP8BGAB_SMALL_D
+ZINC000019796168sil.sdf
+/home/pk-7/web11.04/.git/COMMIT_EDITMSG
