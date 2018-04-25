@@ -2,6 +2,7 @@ const express = require('express');
 const hbs = require('hbs');
 const fs = require('fs');
 const app = express();
+const PORT = process.env.PORT || 3000;
 
 app.set('view engine', 'hbs');
 
@@ -30,7 +31,7 @@ app.get('/', (req, res) => {
 });
 
 
-let port = 3000;
-let server = app.listen(port, () => {
-	console.log('server is running on port ' + port);// ${port}`);
+//let port = 3000;
+let server = app.listen(PORT, () => {
+	console.log('server is running on port ' + PORT);// ${port}`);
 });
